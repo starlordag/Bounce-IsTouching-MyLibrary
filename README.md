@@ -1,2 +1,2 @@
-# Bounce-IsTouching-MyLibrary
-My own algorythm
+# collisionAlgorithm
+Algorithm to detect collision between two objects
